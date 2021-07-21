@@ -50,21 +50,15 @@ $ cd nlw-05-reactjs
 ```
 
 Para iniciá-lo, siga os passos abaixo:
+
 ```bash
-# Instalar as dependências
-$ yarn
-
-#ou
-
+# Instala as dependências
 $ npm install
 
-# Iniciar o projeto
-$ yarn start
-
-#ou
-
-$ npm start
+# Inicia o website
+$ npm run start
 ```
+
 O website estará disponível no seu navegador pelo endereço [`http://localhost:3000`](http://localhost:3000).
 
 ## 📄 Licença

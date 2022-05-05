@@ -30,7 +30,7 @@ O Podcastr é um website de reprodução de episódios em áudio perfeito para v
 
 O Podcastr foi desenvolvido pensando em oferecer o funcional de forma prática e agradável, possuindo uma interface clean e moderna de fácil manuseio e utilização.
 
-Este é um projeto desenvolvido durante a **[Next Level Week Together](https://nextlevelweek.com/)**, apresentada nos dias 19 a 25 de Abril de 2021.
+Este é um projeto desenvolvido durante a **[Next Level Week #05](https://nextlevelweek.com/)**, apresentada nos dias 19 a 25 de Abril de 2021.
 
 ## 🔖 Layout
 
